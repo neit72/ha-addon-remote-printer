@@ -1,0 +1,9 @@
+{
+  "remote_printer": {
+    "name": "Remote Printer",
+    "url": "https://github.com/neit72/ha-addon-remote-printer/remote_printer",
+    "maintainer": "neit72",
+    "description": "Drukowanie z Home Assistanta przez CUPS",
+    "version": "1.0"
+  }
+}

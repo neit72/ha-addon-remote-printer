@@ -1,0 +1,15 @@
+{
+  "name": "Remote Printer",
+  "version": "1.0",
+  "slug": "remote_printer",
+  "description": "Simple remote file printing over CUPS",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "webui": "http://[HOST]:5000",
+  "ingress": false,
+  "panel_icon": "mdi:printer",
+  "map": ["config:rw", "share:rw", "ssl"]
+}
